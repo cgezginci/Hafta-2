@@ -1,0 +1,1 @@
+# Patika + FullStack Web Developer Programı 2. Hafta Pratikleri ve Ödevleri
